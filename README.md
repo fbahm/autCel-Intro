@@ -1,4 +1,3 @@
----------------------------------------------------------------
 Repositorio para clase INTRODUCCIÓN A INVESTIGACIÓN CIÉNTIFICA.
 ---------------------------------------------------------------
 _Avances publicados periodicamente._
